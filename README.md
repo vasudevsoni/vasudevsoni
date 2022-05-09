@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vasudevsoni
-- 👀 I’m interested in developing mobile apps using Flutter
-- 🌱 I’m currently learning new things everyday
-- 💞️ I’m looking to collaborate on any project related to Flutter or Frontend development
+- 👀 I’m interested in developing mobile apps and websites
+- 🌱 I’m currently learning and working of technologies like Flutter and MERN
+- 💞️ I’m looking to collaborate on any project in Flutter or development using MERN
 - 📫 You can reach me at vasudevsoni2001@gmail.com
 
 <!---
