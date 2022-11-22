@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vasudevsoni
-- 👀 I’m interested in developing mobile apps and websites
+- 👋 Hi, I’m Vasudev
+- 👀 I develop mobile apps and websites
 - 🌱 I’m currently learning and working of technologies like Flutter and MERN
 - 💞️ I’m looking to collaborate on any project in Flutter or development using MERN
 - 📫 You can reach me at vasudevsoni2001@gmail.com
