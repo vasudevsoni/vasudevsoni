@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Vasudev
+- 👋 Hi, I’m Vasudev Soni
 - 👀 I develop mobile apps and websites
-- 🌱 I’m currently learning and working of technologies like Flutter and MERN
-- 💞️ I’m looking to collaborate on any project in Flutter or development using MERN
+- 🌱 I’m currently working on technologies like Flutter and Firebase
+- 💞️ I’m looking to collaborate on any project in Flutter Development
 - 📫 You can reach me at vasudevsoni2001@gmail.com
 
 <!---
