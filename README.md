@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vasudev Soni
 - 👀 I develop mobile apps and websites
-- 🌱 I’m currently working on technologies like Flutter and Firebase
-- 💞️ I’m looking to collaborate on any project in Flutter Development
+- 🌱 I’m currently working on technologies like React.js and JavaScript
 - 📫 You can reach me at vasudevsoni2001@gmail.com
 
 <!---
