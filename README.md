@@ -18,3 +18,7 @@
   <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+<h3>Reach out to me</h3>
+<p>
+  <a href="https://linkedin.com/in/vasudevsoni"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
