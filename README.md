@@ -20,5 +20,8 @@
 
 <h3>Reach out to me</h3>
 <p>
-  <a href="https://linkedin.com/in/vasudevsoni"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="https://linkedin.com/in/vasudevsoni"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="https://linktr.ee/vasudevsoni"><img alt="linktree" src="https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white" /></a>
+  <a target="_blank" href="https://twitter.com/vasudevsoni2001"><img alt="linkedin" src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" /></a>
+  
 </p>
