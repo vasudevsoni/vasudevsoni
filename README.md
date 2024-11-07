@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
-<p> I'm Vasudev Soni, Web Developer from 🇮🇳<b>India</b> </p>
+<p> I'm Vasudev Soni, Web Developer from <b>India</b> </p>
 <h3>Technical Skills</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white" />
