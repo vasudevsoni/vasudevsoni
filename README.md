@@ -1,7 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
-
-<p>Welcome to my page! </br> I'm Vasudev Soni, Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>India</b> </p>
+<p> I'm Vasudev Soni, Web Developer from 🇮🇳<b>India</b> </p>
 <h3>Technical Skills</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white" />
@@ -28,8 +27,5 @@
 <h3>Reach out to me</h3>
 <p>
   <a target="_blank" href="mailto:vasudevsoni2001@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a target="_blank" href="https://linktr.ee/vasudevsoni"><img alt="linktree" src="https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white" /></a>
-  <a target="_blank" href="https://twitter.com/vasudevsoni2001"><img alt="linkedin" src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" /></a>
-  
 </p>
 
