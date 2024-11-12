@@ -3,15 +3,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vasudevsoni&label=Profile%20Views&color=8197ee&style=flat" alt="vasudevsoni" /></p>
 
-- 🌱 I’m currently learning **React.js, Redux, Next.js**
+- 📖 I’m currently learning **React.js, Redux, Next.js**
 
-- 👯 I’m looking to collaborate on **web dev projects, business ventures**
+- 🤝 I’m looking to collaborate on **web dev projects, and business ventures**
 
-- 👨‍💻 All of my projects are available at **[https://vasudevsoni.github.io/my-portfolio](https://vasudevsoni.github.io/my-portfolio)**
+- 👨‍💻 All my projects are available at **[https://vasudevsoni.github.io/my-portfolio](https://vasudevsoni.github.io/my-portfolio)**
 
 - 💬 Ask me about **web development, entrepreneurship, software engineering, android development**
 
-- 📫 How to reach me **vasudevsoni2001@gmail.com**
+- 📫 Reach me at **vasudevsoni2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
