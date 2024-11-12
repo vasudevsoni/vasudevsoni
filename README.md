@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasudev</h1>
 <h3 align="center">A passionate frontend developer/entrepreneur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasudevsoni&label=Profile%20Views&color=8197ee&style=flat" alt="vasudevsoni" /> </p>
-
-<p align="left"> <a href="https://twitter.com/vasudevsoni2001" target="blank"><img src="https://img.shields.io/twitter/follow/vasudevsoni2001?logo=twitter&style=for-the-badge" alt="vasudevsoni2001" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vasudevsoni&label=Profile%20Views&color=8197ee&style=flat" alt="vasudevsoni" /><a href="https://twitter.com/vasudevsoni2001" target="blank"><img src="https://img.shields.io/twitter/follow/vasudevsoni2001?logo=twitter&style=for-the-badge" alt="vasudevsoni2001" /></a> </p>
 
 - 🌱 I’m currently learning **React.js, Redux, Next.js**
 
