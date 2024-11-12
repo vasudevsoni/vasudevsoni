@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **web dev projects, business ventures**
 
-- 👨‍💻 All of my projects are available at **[https://vasudevsoni.github.io/my-portfolio]**(https://vasudevsoni.github.io/my-portfolio)
+- 👨‍💻 All of my projects are available at **[https://vasudevsoni.github.io/my-portfolio](https://vasudevsoni.github.io/my-portfolio)**
 
 - 💬 Ask me about **web development, entrepreneurship, software engineering, android development**
 
