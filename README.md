@@ -54,6 +54,3 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
 </p>
-
-
-<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=vasudevsoni&" alt="vasudevsoni" /></div>
