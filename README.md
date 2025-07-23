@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm Vasudev</h2>
+<h2 align="left">👋 Hi, I'm Vasudev Soni</h2>
 <h3 align="left">A passionate frontend developer/entrepreneur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasudevsoni&label=Profile%20Views&color=8197ee&style=flat" alt="vasudevsoni" /></p>
