@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasudevsoni&label=Profile%20Views&color=8197ee&style=flat" alt="vasudevsoni" /></p>
 
-- 📖 I’m currently learning **React.js, AI, Snowflake**
+- 📖 I’m currently working on **React.js, Supabase, Shadcn/ui and AI**
 
 - 👨‍💻 Checkout my portfolio at - **[https://vasudevsoni.github.io/my-portfolio](https://vasudevsoni.github.io/my-portfolio)**
 
