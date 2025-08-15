@@ -1,8 +1,6 @@
 <h2 align="left">👋 Hi, I'm Vasudev Soni</h2>
 <h3 align="left">A passionate frontend developer/entrepreneur</h3>
 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/vasudevsoni)](https://peerlist.io/vasudevsoni)
-
 - 📖 I’m currently working on **React.js, Supabase, Shadcn/ui and AI**
 
 - 👨‍💻 Checkout my portfolio at - **[https://vasudevsoni.github.io/my-portfolio](https://vasudevsoni.github.io/my-portfolio)**
