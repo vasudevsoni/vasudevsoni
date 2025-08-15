@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hi, I'm Vasudev Soni</h2>
 <h3 align="left">A passionate frontend developer/entrepreneur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasudevsoni&label=Profile%20Views&color=8197ee&style=flat" alt="vasudevsoni" /></p>
+[![Peerlist](https://github-readme-badge.peerlist.io/api/vasudevsoni)](https://peerlist.io/vasudevsoni)
 
 - 📖 I’m currently working on **React.js, Supabase, Shadcn/ui and AI**
 
