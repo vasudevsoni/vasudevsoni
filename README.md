@@ -17,13 +17,12 @@ Currently focused on frontend engineering, SaaS ideas, and experimenting with AI
 ---
 
 ### 🌐 Portfolio
-👨‍💻 Check out my work here:  
-👉 **https://vasudevsoni.github.io/my-portfolio**
+👨‍💻 Check out my work here: **https://vasudevsoni.github.io/my-portfolio**
 
 ---
 
 ### 📫 Get in touch
-- ✉️ **vasudevsoni2001@gmail.com**
+- ✉️ Email me: **vasudevsoni2001@gmail.com**
 
 ---
 
