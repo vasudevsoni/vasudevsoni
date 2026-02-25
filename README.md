@@ -24,7 +24,6 @@ Currently focused on frontend engineering, SaaS ideas, and experimenting with AI
 
 ### 📫 Get in touch
 - ✉️ **vasudevsoni2001@gmail.com**
-- 🐦 Twitter & 💼 LinkedIn below
 
 ---
 
